@@ -1,0 +1,1 @@
+# Identification-of-photographic-spots-usingmulti-objective-clustering
