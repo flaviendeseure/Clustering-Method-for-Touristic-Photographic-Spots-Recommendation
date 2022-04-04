@@ -17,7 +17,6 @@ dependencies:
     - pip:
         - webcolors
         - tqdm
-        - time
         - geopy
         - folium
         - suntime
