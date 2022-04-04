@@ -76,7 +76,7 @@ repository top level and running:
     jupyter notebook
 
 This will start the server and open your default web browser to the Jupyter
-interface. In the page, go into the `code/notebooks` folder and select the
+interface. In the page, go into the `code` folder and select the
 notebook that you wish to view/run.
 
 The notebook is divided into cells (some have text while other have code).
