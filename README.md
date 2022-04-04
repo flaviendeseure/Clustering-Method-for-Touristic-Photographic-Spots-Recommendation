@@ -7,14 +7,6 @@ G. Guerard
 
 This paper has been submitted for publication in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
 
-> Brief description of what this paper is about (2-3 sentences). Include a
-> figure as well with the main result of your paper.
-
-![](manuscript/figures/hawaii-trend.png)
-
-*Caption for the example figure with the main results.*
-
-
 ## Abstract
 
 With the soaring popularity of digital photography, it is becoming increasingly explicit that tourists cannot go on vacation without a camera. Tourism and photography have become very complementary, and tourists are constantly seeking the best spots to capture pictures and memorize their vacations. However, the search for the best and unforgettable photographic spots is difficult and time-consuming for tourists, especially during visits new regions.
@@ -23,9 +15,6 @@ The approach is simulated and experimentally evaluated on a real photographic da
 
 
 ## Software implementation
-
-> Briefly describe the software that was written to produce the results of this
-> paper.
 
 All source code used to generate the results and figures in the paper are in
 the `code` folder.
@@ -84,18 +73,7 @@ or, if you're on Windows:
 This will enable the environment for your current terminal session.
 Any subsequent commands will use software that is installed in the environment.
 
-To build and test the software, produce all results and figures, and compile
-the manuscript PDF, run this in the top level of the repository:
-
-    make all
-
-If all goes well, the manuscript PDF will be placed in `manuscript/output`.
-
-You can also run individual steps in the process using the `Makefile`s from the
-`code` and `manuscript` folders. See the respective `README.md` files for
-instructions.
-
-Another way of exploring the code results is to execute the Jupyter notebooks
+To explore the code results, you can execute the Jupyter notebooks
 individually.
 To do this, you must first start the notebook server by going into the
 repository top level and running:
