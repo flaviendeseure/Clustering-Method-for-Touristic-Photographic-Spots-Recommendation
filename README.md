@@ -1,10 +1,5 @@
 # Clustering Method for Touristic Photographic Spots Recommendation
 
-by
-F. Deseure--Charron,
-S. Djebali,
-G. Guerard
-
 This paper has been submitted for publication in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
 
 ## Abstract
