@@ -16,7 +16,6 @@ dependencies:
     - scikit-learn
     - pip:
         - webcolors
-        - warnings
         - tqdm
         - time
         - geopy
