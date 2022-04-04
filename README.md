@@ -94,4 +94,4 @@ to the authors. See `LICENSE` for the full license text.
 
 The manuscript text is not open source. The authors reserve the rights to the
 article content, which is currently submitted for publication in the
-JOURNAL NAME.
+European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
