@@ -25,3 +25,4 @@ dependencies:
         - python-dateutil
         - sentence_transformers
         - kneed
+        - pyarrow
