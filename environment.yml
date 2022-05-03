@@ -23,3 +23,5 @@ dependencies:
         - suntime
         - datetime
         - python-dateutil
+        - sentence_transformers
+        - kneed
