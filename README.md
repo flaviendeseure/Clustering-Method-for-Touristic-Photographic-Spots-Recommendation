@@ -66,6 +66,8 @@ or, if you're on Windows:
 This will enable the environment for your current terminal session.
 Any subsequent commands will use software that is installed in the environment.
 
+You can download the data in the `data` folder with this [access link](https://drive.google.com/file/d/1j_CKuDzeciUccSKZVgqz2VKB3IJHqxwh/view?usp=sharing)
+
 To explore the code results, you can execute the Jupyter notebooks
 individually.
 To do this, you must first start the notebook server by going into the
