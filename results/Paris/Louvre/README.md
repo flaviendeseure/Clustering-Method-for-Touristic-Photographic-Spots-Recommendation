@@ -27,10 +27,10 @@ Global clustering used: HDBSCAN
 
 Local clustering used: MeanShift
 ### Time of day
-[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre/Louvre_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre/Time_sundusk-Louvre_HDBSCAN_Meanshift.html)
 
 ### Panorama
-[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre/Louvre_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre/Panorama-Louvre_HDBSCAN_Meanshift.html)
 
 ### Popularity
-[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre/Louvre_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre/Popularity-Louvre_HDBSCAN_Meanshift.html)
