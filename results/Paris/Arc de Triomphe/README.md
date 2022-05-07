@@ -16,10 +16,10 @@
 
 ## Final result
 Result maps with **HDBSCAN global clustering algorithm** and all four local clustering algorithms:
-- [AGNES](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Arc_de_Triomphe_HDBSCAN_AGNES.html)
-- [GMM](Arc_de_Triomphee_HDBSCAN_GMM.html)
-- [KMeans](Arc_de_Triomphe_HDBSCAN_KMeans.html)
-- [Mean Shift](Arc_de_Triomphe_HDBSCAN_Meanshift.html)
+- [AGNES](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Arc%20de%20Triomphe_HDBSCAN_AGNES.html)
+- [GMM](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Arc%20de%20Triomphe_HDBSCAN_GMM.html)
+- [KMeans](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Arc%20de%20Triomphe_HDBSCAN_KMeans.html)
+- [Mean Shift](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Arc%20de%20Triomphe_HDBSCAN_Meanshift.html)
 
 
 ## TPS qualification
@@ -27,10 +27,10 @@ Global clustering used: HDBSCAN
 
 Local clustering used: MeanShift
 ### Time of day
-[Result map](Arc_de_Triomphe_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Time_sundusk-Arc%20de%20Triomphe_HDBSCAN_Meanshift.html)
 
 ### Panorama
-[Result map](Arc_de_Triomphe_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Arc_de_Triomphe_HDBSCAN_AGNES.html)
 
 ### Popularity
-[Result map](Arc_de_Triomphe_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Arc_de_Triomphe_HDBSCAN_AGNES.html)
