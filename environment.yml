@@ -19,7 +19,7 @@ dependencies:
         - webcolors
         - tqdm
         - geopy
-        - folium
+        - folium=0.8.3
         - suntime
         - datetime
         - python-dateutil
