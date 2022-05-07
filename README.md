@@ -31,6 +31,10 @@ You can download a copy of all the files in this repository by cloning the
 or [download a zip archive](https://github.com/flaviendeseure/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/archive/refs/heads/main.zip).
 
 
+## Getting the data
+You can download the data in the `data` folder with this [access link](https://drive.google.com/file/d/1j_CKuDzeciUccSKZVgqz2VKB3IJHqxwh/view?usp=sharing)
+
+
 ## Dependencies
 
 You'll need a working Python environment to run the code.
@@ -65,8 +69,6 @@ or, if you're on Windows:
 
 This will enable the environment for your current terminal session.
 Any subsequent commands will use software that is installed in the environment.
-
-You can download the data in the `data` folder with this [access link](https://drive.google.com/file/d/1j_CKuDzeciUccSKZVgqz2VKB3IJHqxwh/view?usp=sharing)
 
 To explore the code results, you can execute the Jupyter notebooks
 individually.
