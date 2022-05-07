@@ -23,6 +23,9 @@ Result maps with **HDBSCAN global clustering algorithm** and all four local clus
 
 
 ## TPS qualification
+Global clustering used: HDBSCAN 
+
+Local clustering used: MeanShift
 ### Time of day
 [Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre/Louvre_HDBSCAN_AGNES.html)
 
