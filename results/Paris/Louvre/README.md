@@ -2,7 +2,7 @@
 ## Global clustering comparison
 
 <p align="center">
-  <img src="/blob/main/results/Paris/Louvre/Louvre-Global_clustering_scores.png" width="90%">
+  <img src="./Louvre-Global_clustering_scores.png" width="90%">
 </p>
 
 ## Local clustering comparison
