@@ -32,7 +32,7 @@ or [download a zip archive](https://github.com/flaviendeseure/Clustering-Method-
 
 
 ## Getting the data
-You can download the data in the `data` folder with this [access link](https://drive.google.com/file/d/1j_CKuDzeciUccSKZVgqz2VKB3IJHqxwh/view?usp=sharing)
+You can download the data in the `data` folder with this [access link](https://drive.google.com/file/d/1j_CKuDzeciUccSKZVgqz2VKB3IJHqxwh/view?usp=sharing).
 
 
 ## Dependencies
