@@ -2,7 +2,7 @@
 ## Global clustering comparison
 
 <p align="center">
-  <img src="https://github.com/flaviendeseure/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/blob/60d87aff3a97a9bfa37c193f5289a30d2b8972da/results/Paris/Louvre/Louvre-Global_clustering_scores.png" width="90%">
+  <img src="/blob/main/results/Paris/Louvre/Louvre-Global_clustering_scores.png" width="90%">
 </p>
 
 ## Local clustering comparison
