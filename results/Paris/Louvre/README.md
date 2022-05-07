@@ -15,7 +15,7 @@
 </p>
 
 ## Final result
-link to site: https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Louvre.md
+link to site: https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Louvre
 
 
 <iframe src="results/test.html"></iframe>
