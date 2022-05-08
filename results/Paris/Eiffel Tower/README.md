@@ -30,7 +30,7 @@ Local clustering used: MeanShift
 [Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Eiffel%20Tower/Time_sundusk-Eiffel_Tower_HDBSCAN_Meanshift.html)
 
 ### Panorama
-[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Eiffel%20Tower/Louvre_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Eiffel%20Tower/Panorama-Eiffel_Tower_HDBSCAN_Meanshift.html)
 
 ### Popularity
-[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Eiffel%20Tower/Louvre_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Eiffel%20Tower/Popularity-Eiffel_Tower_HDBSCAN_Meanshift.html)

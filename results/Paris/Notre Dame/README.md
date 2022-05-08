@@ -30,7 +30,7 @@ Local clustering used: MeanShift
 [Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Notre%20Dame/Time_sundusk-Notre_Dame_HDBSCAN_Meanshift.html)
 
 ### Panorama
-[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Notre%20Dame/Notre_Dame_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Panorama-Notre_Dame_HDBSCAN_Meanshift.html)
 
 ### Popularity
-[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Notre%20Dame/Notre_Dame_HDBSCAN_AGNES.html)
+[Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Notre%20Dame/Popularity-Notre_Dame_HDBSCAN_Meanshift.html)
