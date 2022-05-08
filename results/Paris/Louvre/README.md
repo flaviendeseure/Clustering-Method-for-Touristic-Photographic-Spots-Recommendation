@@ -1,17 +1,17 @@
-# Musée du Louvre
+# Louvre
 ## Global clustering
 
 <p align="center">
-  <img src="./Louvre-Global_clustering_scores.png" width="90%">
+  <img src="Louvre-Global_clustering_scores.png" width="90%">
 </p>
 
 ## Local clustering
 <p align="center">
-  <img src="https://github.com/flaviendeseure/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/blob/main/results/Paris/Louvre/Louvre-Local_clustering_scores.png" width="90%">
+  <img src="Louvre-Local_clustering_scores.png" width="90%">
 </p>
 
 <p align="center">
-  <img src="https://github.com/flaviendeseure/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/blob/main/results/Paris/Louvre/Louvre-Local_clustering_comparison.png" width="80%" >
+  <img src="Louvre-Local_clustering_comparison.png" width="80%" >
 </p>
 
 ## Final result
