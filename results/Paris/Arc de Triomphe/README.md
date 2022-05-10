@@ -53,12 +53,12 @@ Local clustering used: **MeanShift**
 
 During our experiments, we discovered good spots for sun dusk as the proportion differs a lot from the reference one (between 7% and 10% of all photos TPS instead of 2.78%). Those spots are on the east, northeast of the *Eiffel Tower*, and they are at a higher altitude. Some spots are close to the POI, tourists capture the sun dusk between the feet of the *Eiffel Tower*. One TPS on the bottom left is the *Grenelle bridge*, and many others are on various bridges. Tourists can see the sun dusk glare on the water in front of the tower. We conclude those spots are ideal to take the sun dusk close to the *Eiffel Tower*.
 
-### Panorama
+### Panorama - limited to 30 clusters
 [Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Panorama-Arc%20de%20Triomphe_HDBSCAN_Meanshift.html)
 
 Concerning the panorama, we obtained the following map. We found most of panorama’s like *La Défense*, *Montmartre*, *Arc de Triomphe*, some bridges, the *Place de la Concorde*, *Saint Honoré district* and *Les Halles*. Those places offer an advantageous point of view of some parts of Paris and are at higher altitudes or with vast open views. Those results are biased as most tourists want to place the *Eiffel Tower* in every photo.
 
-### Popularity
+### Popularity - 15 first clusters
 [Result map](https://flaviendeseure.github.io/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/results/Paris/Arc%20de%20Triomphe/Popularity-Arc%20de%20Triomphe_HDBSCAN_Meanshift.html)
 
 The most popular spots are all around the monument (main global cluster) and in large places (*Place de la Concorde*, *Montmartre*, *Arc de Triomphe*). Moreover, most of the photos on the internet are taken from those places. 
