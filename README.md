@@ -1,6 +1,6 @@
 # Clustering Method for Touristic Photographic Spots Recommendation
 
-This paper has been submitted for publication in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
+This paper has been submitted for publication in the 18th International Conference on Advanced Data Mining and Applications (ADMA 2022).
 
 ## Abstract
 
@@ -95,5 +95,5 @@ use and modify the code, without warranty, so long as you provide attribution
 to the authors. See `LICENSE` for the full license text.
 
 The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in the
-European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
+article content, which is currently submitted for publication in the 18th International Conference on Advanced Data Mining and Applications (ADMA 2022).
+
